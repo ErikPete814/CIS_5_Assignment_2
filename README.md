@@ -80,7 +80,7 @@ How I Did It:
 - string variable type for name, BMIRating and grade
 - while loops to ensure valid inputs
 
-Video link:
+Video link:  https://youtu.be/fxwbfyC0bxo 
 
 
 
