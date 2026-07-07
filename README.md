@@ -62,3 +62,31 @@ Hey Alex, you're 20 years old with a BMI of 22.20 (Normal weight) and you got a 
 - Use `std::fixed` and `std::setprecision(2)` (from `<iomanip>`) to format the BMI output.
 - Validate inputs where appropriate (e.g., non-negative height/weight, score between 0 and 100).
 - Keep the program interactive with clear prompts.
+
+
+
+# Erik Petersen - Assignment 2
+
+Summary:
+This program asks the user for their name, age, height, weight, and test score. It calculates their BMI, gives their BMI category, and converts their test score into a letter grade. Then gives the user a personalized statement giving them back their information 
+
+
+How I Did It:
+- Xcode as my coding environment
+- if, else if and else to categorize both BMI and letter grade
+- setprecision to format the BMI output
+- int variable type for age and score
+- double variable type for BMI, weight, and height
+- string variable type for name, BMIRating and grade
+- while loops to ensure valid inputs
+
+Video link:
+
+
+
+
+
+
+
+
+
